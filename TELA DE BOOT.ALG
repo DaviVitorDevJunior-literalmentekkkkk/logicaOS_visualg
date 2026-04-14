@@ -29,5 +29,7 @@ contador <- contador+1
 carregamento[contador] <- contador+1
 escreva(carregamento[contador])
 fimenquanto
+escreval("")
+escreval("Sistema pronto")
 limpatela
 Fimalgoritmo
