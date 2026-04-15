@@ -1,7 +1,7 @@
 Algoritmo "tela de boot"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 14/04/2026
 Var
@@ -10,19 +10,7 @@ carregamento: vetor [0..10] de inteiro
 
 
 Inicio
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("")
-escreval("LógicaOS")
+escreval("LogicaOS")
 escreval("Carregando...")
 enquanto (carregamento[contador]<10) faca
 contador <- contador+1
